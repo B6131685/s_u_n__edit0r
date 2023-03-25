@@ -1,0 +1,18 @@
+https://www.cssscript.com/minimal-wysiwyg-editor-pure-javascript-suneditor/
+บอก option
+
+https://github.com/mkhstar/suneditor-react/blob/master/README.md
+
+
+removeChild NOde
+https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/
+ while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+ }
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement
+ Element.insertAdjacentElement()
+
+
+// Typescript Version
+https://github.com/mkhstar/suneditor-react/blob/master/README.md 
